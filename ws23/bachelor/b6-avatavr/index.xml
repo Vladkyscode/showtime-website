@@ -6,5 +6,14 @@
     <description>Recent content in AvataVR on IMI Showtime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language><atom:link href="https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatavr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gallery</title>
+      <link>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatavr/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatavr/gallery/</guid>
+      <description>Motion Capturing The Team </description>
+    </item>
+    
   </channel>
 </rss>
