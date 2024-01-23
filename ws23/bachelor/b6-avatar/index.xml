@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AVATAVR - VR learning environment on IMI Showtime</title>
+    <link>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatar/</link>
+    <description>Recent content in AVATAVR - VR learning environment on IMI Showtime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatar/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatar/features/</guid>
+      <description>Features Explore the core features of our project. In this overview, we present the key elements that define our unique approach to virtual reality learning. Discover the functionalities that set our project apart as we navigate through the main features.
+Core Elements Immersive Virtual Reality Experience: Step into a world that feels real, where learning becomes an immersive experience that goes beyond traditional methods. Our virtual reality environment creates a dynamic space for exploration and discovery.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatar/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatar/process/</guid>
+      <description>Process Planning and Preparation We began our journey with careful planning and preparations. After diving into scientific papers to gather insights, we crafted our questionnaire for the tests. The scientific findings from the sources were our support throughout the entire project.
+Game Development using Unity Our game took shape within Unity. Collaborating with our partner from sE.services GmbH, we discussed its appearance, content, and functionality. We had weekly meetings with each other and always shared our progress with our supervisors, gathering feedback.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
+      <link>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatar/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatar/techstack/</guid>
+      <description>Organisation and Communication To make sure we talk and work well together in our group, we used these services Discord: for our online meetings WhatsApp: to stay updated all the time Google Drive/Google Presentation: to keep our shared documents in one place Mattermost: for chatting with the our supervisors and using boards to organize our tasks, sources, and schedule GitLab: to organize the Unity project Discord WhatsApp Mattermost Google Drive GitLab Development To craft a virtual reality game, we had to utilize specific software for its development and implementation VS Code and Visual Studio (VS): These were the IDEs we liked using the most for development Unity: Our primary tool for developing the VR learning environment -Blender Creating assets and making design adjustments Oculus: Essential for configuring our VR glasses Visual Studio Code Visual Studio Unity Blender Oculus Image Sources https://de.</description>
+    </item>
+    
+  </channel>
+</rss>
