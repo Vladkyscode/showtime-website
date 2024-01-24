@@ -2607,5 +2607,14 @@ Backend: Gitlab backend source code</description>
       <description> Showtime presentation </description>
     </item>
     
+    <item>
+      <title>VR Environment</title>
+      <link>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatavr/vr-environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leunami420.github.io/showtime-website/ws23/bachelor/b6-avatavr/vr-environment/</guid>
+      <description>The VR Testing Environment A key part of the immersive VR experience is to be placed in an environment that seems coherent and believable to the user. The challenge consisted of creating such an environment not distracting enough to turn the focus away from the NPC instructor. Room 1 Introduction inside the Apartment In this scene the player is greeted by the instructor, and asked to point out some different uses of electric current in a regular household.</description>
+    </item>
+    
   </channel>
 </rss>
